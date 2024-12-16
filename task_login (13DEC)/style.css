@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.firstBox{
+    /* color: blueviolet; */
+    border: 10px solid ;
+    border-color: brown;
+    position: absolute;
+    top:150px;
+    right:500px;
+    left: 500px;
+}
+.secondBox{
+    position: relative;
+    /* top: 20px; */
+    left: 110px;
+    width: 200px;
+    height: 50px;
+    
+
+}
+.textBox{
+    position: absolute;
+ left: 50px;
+ right: 40px;
+}
+
+
